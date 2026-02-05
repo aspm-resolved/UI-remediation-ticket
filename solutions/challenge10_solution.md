@@ -175,8 +175,7 @@ User: admin
 Role: admin
 Email: admin@acmecorp.com
 
-Your authentication token is: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsIm5hbWUiOiJBZG1pbiBVc2VyIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjUxODg0ODAwfQ.8FhJ7Z5KFUEJFoQW2xeUL9_NOzlKB3j8fKvxU_5qB4Y
-```
+
 
 #### Step 3.4: Execute Command Injection
 
